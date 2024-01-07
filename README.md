@@ -1,2 +1,2 @@
 # JavaLearning
-Java Basic programs to learn basic syntax and build applications.
+Basic Java programs to learn syntax and build applications.
